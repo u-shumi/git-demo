@@ -4,3 +4,4 @@ standing strong
 on this their chosen battlefield
 
 some content for 1st feature commit
+some else content for 2nd feature commit
